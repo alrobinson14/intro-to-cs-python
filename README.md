@@ -2,6 +2,7 @@
 MIT's Introduction to Computer Science and Programming in Python course 6.0001x
 
 Lessons include:
+
 1	What is computation?
 
 2	Branching and Iteration
